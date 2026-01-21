@@ -1,2 +1,2 @@
-name = Alishba Siddiqui
-registration number = BSCS25101006
+ # Name : Alishba Siddiqui
+# Registration number : BSCS25101006
